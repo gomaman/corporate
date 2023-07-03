@@ -17,6 +17,7 @@ const Cards = () => {
         desc3="Send up to 2GB"
         buttonBG="bg-[#00df9a]"
         buttonTC="text-[black]"
+        height="my-4"
         ></Card>
 
         <Card
@@ -28,6 +29,7 @@ const Cards = () => {
         desc3="Send up to 2GB"
         buttonBG="bg-[black]"
         buttonTC="text-[#00df9a]"
+        height="md:my-0 my-8"
         ></Card>
 
         <Card
@@ -39,6 +41,7 @@ const Cards = () => {
         desc3="Send up to 2GB"
         buttonBG="bg-[#00df9a]"
         buttonTC="text-[black]"
+        height="my-4"
         ></Card>
       </div>
     </div>
