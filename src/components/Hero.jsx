@@ -4,7 +4,7 @@ import { TypeAnimation } from "react-type-animation";
 const Hero = () => {
   return (
     <div className="flex text-white">
-      <div className="max-w-[800px] mt=[-96px] w-full mx-auto text-center flex flex-col justify-center h-[90vh]">
+      <div className="max-w-[800px] mt=[-96px] w-full mx-auto text-center flex flex-col justify-center h-screen">
         <p className="text-[#00df9a] uppercase p-2 font-bold">
           Growing with data analytics
         </p>
